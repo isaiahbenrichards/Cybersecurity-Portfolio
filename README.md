@@ -1,6 +1,8 @@
 <h1>Welcome, I'm Isaiah!
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
@@ -10,8 +12,17 @@
   - [Try Hack Me Cyber Defense](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Cyber_Defense.pdf)
   - [Try Hack Me Jr Penetration Tester](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Junior_Penetration_Tester.pdf)
   - [Fundamentals of Red Hat Enterprise Linux 9](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Fundamentals_of_Redhat_Enterprise_Linux_9.pdf)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Skills</b>
+  - Splunk
+  - Burp Suite
+  - Wireshark
+  - Powershell
+  - Python
+  - SQL
+  - Risk Management
+  - Vulnerability Management
+  - Windows
+  - Linux
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -21,8 +32,7 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
