@@ -2,9 +2,9 @@
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
 - <b>Certifications</b>
-  - CompTIA Security+
-  - Google Cybersecurity Certificate
-  - Google IT Support Certificate
+  - [CompTIA Security+](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Google Cybersecurity Certificate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Google IT Support Certificate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - Qualys Certified Specialist
   - Try Hack Me SOC Level 1
   - Try Hack Me Cyber Defense
