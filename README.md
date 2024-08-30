@@ -6,7 +6,7 @@
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
   - [Google IT Support Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/IT%20Support.pdf)
   - Qualys Certified Specialist
-  - Try Hack Me SOC Level 1
+  - [Try Hack Me SOC Level 1](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Level_1.pdf)
   - Try Hack Me Cyber Defense
   - Try Hack Me Jr Penetration Tester
   - Fundamentals of Red Hat Enterprise Linux 9
