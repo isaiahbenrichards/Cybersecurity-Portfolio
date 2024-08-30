@@ -1,5 +1,5 @@
 <h1>Welcome, I'm Isaiah!
-  [Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf.pdf)
+  [Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
 - <b>Python</b>
