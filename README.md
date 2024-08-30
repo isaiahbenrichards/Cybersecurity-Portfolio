@@ -1,4 +1,5 @@
 <h1>Welcome, I'm Isaiah!
+  [Resume]
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
 - <b>Python</b>
