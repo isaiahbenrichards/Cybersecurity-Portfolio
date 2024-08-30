@@ -7,9 +7,9 @@
   - [Google IT Support Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/IT%20Support.pdf)
   - Qualys Certified Specialist
   - [Try Hack Me SOC Level 1](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Level_1.pdf)
-  - Try Hack Me Cyber Defense
-  - Try Hack Me Jr Penetration Tester
-  - Fundamentals of Red Hat Enterprise Linux 9
+  - [Try Hack Me Cyber Defense](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Cyber_Defense.pdf)
+  - [Try Hack Me Jr Penetration Tester](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Junior_Penetration_Tester.pdf)
+  - [Fundamentals of Red Hat Enterprise Linux 9](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Fundamentals_of_Redhat_Enterprise_Linux_9.pdf)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
