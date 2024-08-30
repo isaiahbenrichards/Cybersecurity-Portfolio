@@ -4,7 +4,7 @@
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
-  - [Google IT Support Certificate]()
+  - [Google IT Support Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/IT%20Support.pdf)
   - Qualys Certified Specialist
   - Try Hack Me SOC Level 1
   - Try Hack Me Cyber Defense
