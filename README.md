@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Portfolio:</h2>
 
 - <b>Certifications</b>
-  - [CompTIA Security+][(https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf))
+  - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Google IT Support Certificate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - Qualys Certified Specialist
