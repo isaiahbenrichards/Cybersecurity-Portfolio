@@ -5,7 +5,7 @@
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
   - [Google IT Support Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/IT%20Support.pdf)
-  - Qualys Certified Specialist
+  - [Qualys Certified Specialist](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/VMDR.pdf)
   - [Try Hack Me SOC Level 1](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Level_1.pdf)
   - [Try Hack Me Cyber Defense](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Cyber_Defense.pdf)
   - [Try Hack Me Jr Penetration Tester](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Junior_Penetration_Tester.pdf)
