@@ -5,7 +5,7 @@
 -  <b>AWS Master Project: Advanced Accounting</b>
   -  [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
 -  <b>Powershell</b>
-  -  [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
