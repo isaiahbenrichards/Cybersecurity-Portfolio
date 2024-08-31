@@ -3,7 +3,7 @@
 
 [My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)
 -  <b>AWS Master Project: Advanced Accounting</b>
-  -  [Introduction](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -  [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
 -  <b>Powershell</b>
   -  [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Certifications</b>
