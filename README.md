@@ -1,13 +1,13 @@
 <h1>Welcome, I'm Isaiah!
-<h2>👨‍💻 Cybersecurity Portfolio:</h2>
+<h2>Cybersecurity Portfolio:</h2>
 
-[My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)
--  <b>AWS Master Project: Advanced Accounting</b>
-  -  [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
-  -  [EC2 Instances](https://github.com/isaiahbenrichards/EC2-Instances)
--  <b>Powershell</b>
+<b>[My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)</b>
+- <b>AWS Master Project: Advanced Accounting</b>
+  - [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
+  - [EC2 Instances](https://github.com/isaiahbenrichards/EC2-Instances)
+- <b>Powershell</b>
   -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
--  <b>Project Selections from Google Cybersecurity Course</b>
+- <b>Project Selections from Google Cybersecurity Course</b>
   - [Algorithms and Automation in Python](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Python.pdf)
   - [Incident Handler's Journal](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/journal.pdf)
   - [Risk Register](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/risk_register.pdf)
