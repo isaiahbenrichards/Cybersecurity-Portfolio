@@ -8,7 +8,8 @@
 -  <b>Powershell</b>
   -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
 -  <b>Project Selections from Google Cybersecurity Certification</b>
-  -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
+  - [Algorithms and Automation using Python](https://github.com/isaiahbenrichards/Powershell.git)
+  - [SQL Queries](https://github.com/isaiahbenrichards/Powershell.git)
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
