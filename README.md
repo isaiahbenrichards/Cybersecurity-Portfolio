@@ -9,7 +9,7 @@
   -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
 -  <b>Project Selections from Google Cybersecurity Certification</b>
   - [Algorithms and Automation in Python](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Python.pdf)
-  - [SQL Queries](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SQL_Queries.pdf)
+  - [SQL Queries](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SQL_queries.pdf)
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
   - [Google Cybersecurity Certificate](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Google_Cybersecurity_Certificate.pdf)
