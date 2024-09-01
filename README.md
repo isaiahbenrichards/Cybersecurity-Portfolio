@@ -7,8 +7,11 @@
   -  [EC2 Instances](https://github.com/isaiahbenrichards/EC2-Instances)
 -  <b>Powershell</b>
   -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
--  <b>Project Selections from Google Cybersecurity Certification</b>
+-  <b>Project Selections from Google Cybersecurity Course</b>
   - [Algorithms and Automation in Python](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Python.pdf)
+  - [Incident Handler's Journal](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/journal.pdf)
+  - [Risk Register](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/risk_register.pdf)
+  - [Vulnerability Assesment Report](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/vulnerability_assesment.pdf)
   - [SQL Queries](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SQL_queries.pdf)
 - <b>Certifications</b>
   - [CompTIA Security+](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
