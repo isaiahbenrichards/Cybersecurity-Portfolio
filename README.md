@@ -6,7 +6,7 @@
   - [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
   - [EC2 Instances](https://github.com/isaiahbenrichards/EC2-Instances)
 - <b>Powershell</b>
-  -  [Files and Directories](https://github.com/isaiahbenrichards/Powershell.git)
+  -  [Files and Directories](https://github.com/isaiahbenrichards//Cybersecurity-Portfolio/blob/main/Files_and_Directories.pdf)
 - <b>Project Selections from Google Cybersecurity Course</b>
   - [Algorithms and Automation in Python](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/Python.pdf)
   - [Incident Handler's Journal](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/journal.pdf)
