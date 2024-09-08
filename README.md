@@ -4,7 +4,7 @@
 <b>[My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)</b>
 - <b>AWS Master Project: Advanced Accounting</b>
   - [Introduction](https://github.com/isaiahbenrichards/Advanced-Accounting-Project)
-  - [EC2 Instances](https://github.com/isaiahbenrichards/EC2-Instances)
+  -  [Files and Directories](https://github.com/isaiahbenrichards//Cybersecurity-Portfolio/blob/main/EC2 Instances.pdf)
 - <b>Powershell</b>
   -  [Files and Directories](https://github.com/isaiahbenrichards//Cybersecurity-Portfolio/blob/main/Files_and_Directories.pdf)
 - <b>Project Selections from Google Cybersecurity Course</b>
