@@ -1,7 +1,7 @@
 <h1>Welcome, I'm Isaiah!
 <h2>Cybersecurity Portfolio:</h2>
 
-<b>[My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst.pdf)</b>
+<b>[My Resume](https://github.com/isaiahbenrichards/Cybersecurity-Portfolio/blob/main/SOC_Analyst (2).pdf)</b>
 - <b>AWS Master Project: Advanced Accounting</b>
   - [Overview](https://github.com/isaiahbenrichards//Cybersecurity-Portfolio/blob/main/Advanced_Accounting_Project.pdf)
   - [EC2 Instances](https://github.com/isaiahbenrichards//Cybersecurity-Portfolio/blob/main/EC2_Instances.pdf)
